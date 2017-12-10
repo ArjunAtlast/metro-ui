@@ -2,4 +2,6 @@
 
 Windows metro style webpage design using CSS Grid.
 
+[preview](preview.jpg)
+
 *designed by Arjun*
