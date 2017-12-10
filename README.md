@@ -2,6 +2,6 @@
 
 Windows metro style webpage design using CSS Grid.
 
-[preview](preview.jpg)
+<img src="preview.jpg"/>
 
 *designed by Arjun*
